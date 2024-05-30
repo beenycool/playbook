@@ -1,4 +1,6 @@
 name: Archive and Release
+on: workflow_dispatch
+
 
 on:
   push:
